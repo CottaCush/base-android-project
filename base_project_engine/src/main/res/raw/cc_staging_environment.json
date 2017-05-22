@@ -1,0 +1,11 @@
+{
+  "url":"http://www.something.com",
+  "name":"Cotta & Cush Staging Env",
+  "env_version":"v0.5",
+  "env_type":"STAGING",
+  "oauth_info": {
+    "oauth_key":"key",
+    "oauth_secret":"secret"
+  }
+}
+
