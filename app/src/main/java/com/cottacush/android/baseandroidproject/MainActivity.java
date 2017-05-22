@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //Sample api call
+        //Entry activity should always remain separate
+        //from other activities to the dev can know where to start from with all certainty
 
         this.referesh();
     }
