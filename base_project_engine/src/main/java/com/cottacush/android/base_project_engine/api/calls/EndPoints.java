@@ -16,8 +16,8 @@ public class EndPoints {
 
     static String apiForPath(Context context, String arg){
         if(context == null){
-            return "BAD_URL for args";
+            return "http://false_end_point.com";
         }
-        return ((BaseAppApplication)context.getApplicationContext()).getEnvironmentConfig().devurl+"/path1";
+        return ((BaseAppApplication)context.getApplicationContext()).getEnvironmentConfig().devurl+arg;
     }
 }
