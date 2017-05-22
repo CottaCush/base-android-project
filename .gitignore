@@ -4,3 +4,7 @@
 /build
 /.idea/
 /gradle/
+/base_project_engine/src/main/res/raw/client_staging_environment.json
+/base_project_engine/src/main/res/raw/cc_dev_environment.json
+/base_project_engine/src/main/res/raw/client_prod_environment.json
+/base_project_engine/src/main/res/raw/cc_staging_environment.json
